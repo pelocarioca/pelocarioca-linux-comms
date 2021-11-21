@@ -18,7 +18,8 @@ Una vez encontrado se ejecuta:
 El disco se encuentra particionado correctamente, se crea el sistema de archivos:
 
 ```
-# mkfs /dev/nombre-de-la-partición
+# mkfs [-t <tipo>] [opciones-sisf] <dispositivo> [<tamaño>]
 
-
+<tipo> = mkfs.ext4, mkfs.ntfs, mkfs.fat, etc
+<tamaño> : tamaño del bloque.
 ```
