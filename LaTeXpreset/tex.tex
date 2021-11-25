@@ -1,0 +1,99 @@
+%Autores: Cassiopea Acebes Prado
+%Contato: cassiopea.acebes@gmail.com
+%"Modelo para escrita de artigos científicos para o TCC dos cursos Graduação do INATEL - Instituto Nacional de Telecomunicações."
+
+%paquetes que se van a usar, a parte del documentclass
+\documentclass[12pt,twocolumn]{article}
+\usepackage{graphicx}
+\usepackage[spanish]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage{fancyhdr}
+\usepackage{listings}
+\usepackage{float}
+\renewcommand{\footrulewidth}{0.1pt} %Esto hace la barra de abajo
+\setlength\headheight{16pt} %Para evitar el error \headheight is too small
+
+\graphicspath{{img/}} %Toma imágenes de la carpeta img
+
+\usepackage[dvipsnames]{xcolor}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,
+    breaklines=true,
+    keepspaces=true,
+    showspaces=false,
+    showstringspaces=false,
+    showtabs=false,
+    tabsize=2
+}
+\usepackage[T1]{fontenc}
+\lstset{style=mystyle, escapeinside=**}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L,RO]{25/11/2021}
+\fancyhead[R]{IES DOMINGO PÉREZ MINIK, 2º CFGS ASIR}
+
+\fancyfoot[L,LO]{Cassiopea Acebes Prado}
+\fancyfoot[R,RO]{Página \thepage}
+
+
+\begin{document}
+\onecolumn
+\title{\Huge \bf Título}
+
+\author{Cassiopea Acebes Prado}
+
+\maketitle
+
+
+%índice
+\tableofcontents
+
+\newpage
+\twocolumn
+\section{Introducción}
+
+De ser necesario se incluye un %\section{Base teórica}
+
+\section{Metodología}
+
+
+
+\begin{itemize}
+\setlength\itemsep{-0.3em}
+\item 
+\end{itemize}
+
+	
+\section{Desarrollo}
+	\subsection{Proceso}
+	
+Proceso se sustituye por las partes necesarias. Ej. Servidor, Cliente. Herramienta a, Herramienta b
+
+\begin{lstlisting}[texcl=true]
+$ 
+\end{lstlisting}
+(Captura de la salida en la sección de \textit{Resultados} (\textit{Figura })).\\
+
+Para referenciar archivos que se trabajan en el lstlisting \textbf{/etc/hosts}
+Cuando se hace referencia a un archivo que no se trabaja en el lstlisting \textit{/var/www/html/index.html}
+
+\onecolumn
+\subsection{Resultados}
+%\input resultados.tex
+
+\section{Conclusión}
+
+Esta práctica da a conocer el servicio dnsmasq para configurar un servidor de reenvío DNS, en mi caso se hizo más complicada que de costumbre al trabajar con sistemas operativos que no suelo utilizar. Pero, en general, es una práctica sencilla.
+
+\section{Bibliografía}
+
+\begin{itemize}
+\setlength\itemsep{-0.3em}
+\item 
+\end{itemize}
+
+\end{document}
