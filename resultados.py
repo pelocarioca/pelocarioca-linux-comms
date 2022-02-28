@@ -2,7 +2,7 @@
 
 import sys
 from pathlib import Path
-import re 
+import re
 
 arg = sys.argv              #pilla los argumentos del comando
 
@@ -23,10 +23,16 @@ def escribir(a):            #escribe el archivo
 
 def error(string):
     print("Syntax error: "+string)
-    print("Please use 'python3 resultados.py --help' or 'pyhton3 resultados.py -h' for more information.") 
+    print("Please use 'python3 resultados.py --help' or 'pyhton3 resultados.py -h' for more information.")
+
+try:
+    ent = arg[1]
+except:
+    error('Not enough arguments.')
+    sys.exit(1)
 
 #en caso de que el primer argumento sea el de ayuda
-if ((str(arg[1]) == '-h') or (str(arg[1]) == '--help')):        
+if ((str(arg[1]) == '-h') or (str(arg[1]) == '--help')):
     print('Usage: python3 resultados.py {-h, --help | <int> [<dir>]}')
     print("Where:")
     print("   <int> : creates a 'resultados.tex' file in <dir>, if not specified creates the file in the same directory as 'resultados.py', with many figures as <int> indicates.")
@@ -34,21 +40,21 @@ if ((str(arg[1]) == '-h') or (str(arg[1]) == '--help')):
     sys.exit(1)
 
 #si hay demasiados argumentos
-if len(arg) > 3:                 
+if len(arg) > 3:
     error('Too many arguments.')
     sys.exit(1)
 
 
 #Se comprueba que el primer argumento sea un número (después de la ayuda porque si no siempre tira error)
-try: 
+try:
     ent = int(arg[1])
 except:
     error('First argument must be an integer.')
-    sys.exit(1)  
+    sys.exit(1)
 
 #Se comprueba que el segundo argumento (path) exista.
 try:
-    path = Path(str(arg[2])) 
+    path = Path(str(arg[2]))
 except:
     archivo = open("resultados.tex", "w")
     escribir(ent)
@@ -68,13 +74,9 @@ try:
             error("El directorio no existe.")
 
 #En caso de que falle cualquier cosa mientras existe el path
-except Exception as e:   
-    print(str(e))     
+except Exception as e:
+    print(str(e))
     error("Couldn't create the file.")
 
 
-sys.exit(1)  
-
-
-
- 
+sys.exit(1)

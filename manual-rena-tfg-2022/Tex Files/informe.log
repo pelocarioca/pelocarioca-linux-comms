@@ -1,0 +1,569 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.9.17)  28 FEB 2022 22:55
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**informe.tex
+(./informe.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/02/14 3.40 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/02/14 3.40 Babel switching mechanism
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/02/14 3.40 Babel common definitions
+\babel@savecnt=\count175
+\U@D=\dimen137
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count176
+)
+\es@quottoks=\toks15
+\es@quotdepth=\count177
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count178
+\uc@combtoks=\toks18
+\uc@combtoksb=\toks19
+\uc@temptokena=\toks20
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip49
+\f@nch@O@elh=\skip50
+\f@nch@O@erh=\skip51
+\f@nch@O@olh=\skip52
+\f@nch@O@orh=\skip53
+\f@nch@O@elf=\skip54
+\f@nch@O@erf=\skip55
+\f@nch@O@olf=\skip56
+\f@nch@O@orf=\skip57
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count179
+\lst@gtempboxa=\box45
+\lst@token=\toks21
+\lst@length=\count180
+\lst@currlwidth=\dimen138
+\lst@column=\count181
+\lst@pos=\count182
+\lst@lostspace=\dimen139
+\lst@width=\dimen140
+\lst@newlines=\count183
+\lst@lineno=\count184
+\lst@maxwidth=\dimen141
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count185
+\lst@skipnumbers=\count186
+\lst@framebox=\box46
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count187
+\float@exts=\toks22
+\float@box=\box47
+\@float@everytoks=\toks23
+\@floatcapt=\box48
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2020/01/17 v1.23 mathematical typesetting tools
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count188
+\calc@Bcount=\count189
+\calc@Adimen=\dimen142
+\calc@Bdimen=\dimen143
+\calc@Askip=\skip58
+\calc@Bskip=\skip59
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count190
+\calc@Cskip=\skip60
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip61
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks24
+\ex@=\dimen144
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen145
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count191
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count192
+\leftroot@=\count193
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count194
+\DOTSCASE@=\count195
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box49
+\strutbox@=\box50
+\big@size=\dimen146
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count196
+\c@MaxMatrixCols=\count197
+\dotsspace@=\muskip16
+\c@parentequation=\count198
+\dspbrk@lvl=\count199
+\tag@help=\toks25
+\row@=\count266
+\column@=\count267
+\maxfields@=\count268
+\andhelp@=\toks26
+\eqnshift@=\dimen147
+\alignsep@=\dimen148
+\tagshift@=\dimen149
+\tagwidth@=\dimen150
+\totwidth@=\dimen151
+\lineht@=\dimen152
+\@envbody=\toks27
+\multlinegap=\skip62
+\multlinetaggap=\skip63
+\mathdisplay@stack=\toks28
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count269
+\l_MT_multwidth_dim=\dimen153
+\origjot=\skip64
+\l_MT_shortvdotswithinadjustabove_dim=\dimen154
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen155
+\l_MT_above_intertext_sep=\dimen156
+\l_MT_below_intertext_sep=\dimen157
+\l_MT_above_shortintertext_sep=\dimen158
+\l_MT_below_shortintertext_sep=\dimen159
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count270
+\l__pdf_internal_box=\box51
+)
+(./informe.aux
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+)
+\openout1 = `informe.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count271
+\scratchdimen=\dimen160
+\scratchbox=\box52
+\nofMPsegments=\count272
+\nofMParguments=\count273
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count274
+\MPscratchDim=\dimen161
+\MPnumerator=\count275
+\makeMPintoPDFobject=\count276
+\everyMPtoPDFconversion=\toks30
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Info: Redefining \. on input line 44.
+LaTeX Info: Redefining \% on input line 44.
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+\c@lstlisting=\count277
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+) (./informe.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@toc=\write3
+\openout3 = `informe.toc'.
+
+
+[1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 3895) in paragraph at lines 66--66
+[]\T1/cmr/bx/n/14.4 Proceso Ge-ne-ra-ción nor-
+ []
+
+
+Underfull \vbox (badness 2401) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1968) in paragraph at lines 84--85
+[]\T1/cmr/m/n/12 Las nor-mas re-co-pi-la-das pa-san por un
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+
+Underfull \hbox (badness 3039) in paragraph at lines 88--89
+\T1/cmr/m/n/12 de ne-ga-ción, \T1/cmr/bx/n/12 CCL \T1/cmr/m/n/12 de un com-ple-
+men-to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+[2
+
+]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 9
+2.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+
+ []
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+)
+LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10> not available
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 140.
+ [3] [4]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--274
+[]\T1/cmr/m/n/12 output-YYYY-MM-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--274
+
+ []
+
+
+Overfull \hbox (20.31798pt too wide) in paragraph at lines 280--282
+[]\T1/cmr/bx/n/12 str(datetime.datetime.now()).replace('
+ []
+
+[5] [6]
+Underfull \hbox (badness 1092) in paragraph at lines 396--397
+\T1/cmr/m/n/12 cuan-do pa-sa de cier-ta dis-tan-cia (x <d),
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 396--397
+\T1/cmr/m/n/12 que per-mi-te ha-cer de-tec-cio-nes cuan-do la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--397
+
+ []
+
+[7] (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-34.def
+File: uni-34.def 2013/05/13 UCS: Unicode data U+2200..U+22FF
+)
+Underfull \hbox (badness 1616) in paragraph at lines 413--414
+\T1/cmr/m/n/12 mu-la fun-cio-na tan-to si hay al-guien que
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 413--414
+\T1/cmr/m/n/12 de al-gu-na for-ma can-ce-le el rui-do (ca-so
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--414
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--416
+
+ []
+
+[8] [9]
+Underfull \hbox (badness 5077) in paragraph at lines 596--596
+[]\T1/cmr/bx/n/17.28 Conclusiones y Re-co-
+ []
+
+
+Underfull \hbox (badness 4303) in paragraph at lines 610--611
+\T1/cmr/m/n/12 zo). Ser-vo-mo-tor con Ar-duino tu-to-
+ []
+
+
+Underfull \hbox (badness 3792) in paragraph at lines 610--611
+\T1/cmr/m/n/12 rial de pro-gra-ma-ción pa-so a pa-so.
+ []
+
+
+Underfull \hbox (badness 7704) in paragraph at lines 610--611
+\T1/cmr/m/n/12 Pro-gra-mar fá-cil con Ar-duino. Re-
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 610--611
+\T1/cmr/m/n/12 cu-pe-ra-do 10 de fe-bre-ro de 2022, de
+ []
+
+
+Overfull \hbox (10.73419pt too wide) in paragraph at lines 610--611
+\T1/cmr/m/n/12 https://programarfacil.com/blog/arduino-
+ []
+
+[10] [11
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+[13]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
+<img/Normas Generadas En Terminal.png, id=63, 652.4375pt x 437.635pt>
+File: img/Normas Generadas En Terminal.png Graphic file (type png)
+<use img/Normas Generadas En Terminal.png>
+Package pdftex.def Info: img/Normas Generadas En Terminal.png  used on input li
+ne 836.
+(pdftex.def)             Requested size: 293.59416pt x 196.93393pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+<img/Modelo Protoboard.jpg, id=67, 644.4075pt x 573.14125pt>
+File: img/Modelo Protoboard.jpg Graphic file (type jpg)
+<use img/Modelo Protoboard.jpg>
+Package pdftex.def Info: img/Modelo Protoboard.jpg  used on input line 844.
+(pdftex.def)             Requested size: 289.9807pt x 257.91118pt.
+<img/Normas Proyectadas.jpg, id=68, 1284.8pt x 851.18pt>
+File: img/Normas Proyectadas.jpg Graphic file (type jpg)
+<use img/Normas Proyectadas.jpg>
+Package pdftex.def Info: img/Normas Proyectadas.jpg  used on input line 852.
+(pdftex.def)             Requested size: 321.19922pt x 212.79446pt.
+
+[16 <./img/Normas Generadas En Terminal.png> <./img/Modelo Protoboard.jpg>]
+[17 <./img/Normas Proyectadas.jpg>] (./informe.aux
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+) ) 
+Here is how much of TeX's memory you used:
+ 8108 strings out of 483007
+ 108529 string characters out of 5961757
+ 821830 words of memory out of 5000000
+ 23024 multiletter control sequences out of 15000+600000
+ 546468 words of font info for 55 fonts, out of 8000000 for 9000
+ 107 hyphenation exceptions out of 8191
+ 37i,12n,45p,766b,1738s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/cassio/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.6
+00pk> </home/cassio/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000
+.600pk> </home/cassio/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx14
+40.600pk> </home/cassio/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti
+1200.600pk> </home/cassio/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ec
+rm1200.600pk> </home/cassio/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/
+ecbx1200.600pk> </home/cassio/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/e
+c/ecbx1728.600pk> </home/cassio/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen
+/ec/ecrm1440.600pk> </home/cassio/.texlive2019/texmf-var/fonts/pk/ljfour/jknapp
+en/ec/ecbx2488.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on informe.pdf (17 pages, 379008 bytes).
+PDF statistics:
+ 458 PDF objects out of 1000 (max. 8388607)
+ 96 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+
