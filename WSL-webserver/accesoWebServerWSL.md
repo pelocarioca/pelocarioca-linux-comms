@@ -1,4 +1,4 @@
-### Arreglar el problema cuando se quiere acceder a un servidor en WSL2
+### Acceso a los archivos/web de un servidor en WSL2
 
 Se abre el "Firewall de Windows con seguridad avanzada", allí:
 
@@ -11,15 +11,11 @@ Se abre el "Firewall de Windows con seguridad avanzada", allí:
 
 Una vez creada la norma se debería poder acceder al servidor apache desde el navegador, escribiendo en la barra de búsqueda ip:port (por ejemplo 172.19.152.209:8080).
 
-Para instalar el servidor apache se ejecuta en el WSL:
-
-`# apt update`
-
-`# apt install apache2`
+Tras instalar el servidor en el subsistema se comprueba su funcionamiento con:
 
 `# apache2`
 
-Se comprueba con:
+y
 
 `# curl 127.0.0.1`
 
@@ -31,7 +27,7 @@ En caso de que falle el comando apache2 con el error _[core:warn] [pid 76] AH001
 
 Por último, para acceder a los archivos del servidor desde Windows se debe:
 
-1. Pulsar __WIN + R__.
+1. Abrir "Ejecutar" __WIN + R__.
 2. Ejecutar __\\wsl$__.
 
 Se abrirá el explorador de archivos de red, en el que se encontrará el sistema de archivos del WSL2.
