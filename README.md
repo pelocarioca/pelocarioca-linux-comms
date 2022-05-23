@@ -2,7 +2,7 @@ Documentación general:
   - [Apartado técnico y especificaciones para Manual para el topoanálisis del hogar](manual-rena-tfg-2022/informe.pdf)
 
 
-Scripts y comandos que suelo utilizar:
+Scripts y comandos de los que me suelo olvidar:
 
   - [Comandos para liberar dpkg](dpkglock/comandos.md)
   - [Comandos para formatear discos](format/formatearDisco.md)
