@@ -11,7 +11,8 @@ Scripts y comandos de los que me suelo olvidar:
   - [Pequeño Keygen con generador QR](keygen/keygen3.py)
   - [Preset trabajos de clase en LaTex](LaTexpreset)
   - [Generador de página de resultados en LaTeX](resultados.py)
+  - [Cosas de clase](clase/Índice.md)
 
 Enlaces externos:
-  - [Problemas con el driver IWLWIFI](https://wireless.wiki.kernel.org/en/users/drivers/iwlwifi) 
+  - [Problemas con el driver IWLWIFI](https://wireless.wiki.kernel.org/en/users/drivers/iwlwifi)
   - [Blobs de Firmware de Linux](https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git)
